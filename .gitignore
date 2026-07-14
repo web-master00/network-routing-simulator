@@ -1,0 +1,27 @@
+# Compiled Java
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+replay_pid*
+
+# Local / portable JDK downloads
+.jdk/
+jdk*/
+*.tar.gz
+
+# Build / IDE
+out/
+build/
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+.factorypath
+
+# OS
+.DS_Store
+Thumbs.db
